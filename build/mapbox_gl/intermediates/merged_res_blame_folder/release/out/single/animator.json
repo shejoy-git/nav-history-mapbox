@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/animator/mtrl_chip_state_list_anim.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/animator/design_fab_show_motion_spec.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/animator/design_fab_hide_motion_spec.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/animator/mtrl_btn_state_list_anim.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/animator/mtrl_fab_hide_motion_spec.xml"
+    }
+]

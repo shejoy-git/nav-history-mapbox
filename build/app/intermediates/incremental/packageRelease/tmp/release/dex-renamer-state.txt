@@ -1,0 +1,4 @@
+#Thu Jul 04 19:46:32 IST 2024
+base.0=/Users/apple/Documents/GitHub/nav_history/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

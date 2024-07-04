@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-ldpi-v4/mapbox_info_icon_selected.png",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-ldpi-v4/mapbox_info_icon_selected.png"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-ldpi-v4/mapbox_user_puck_icon.png",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-ldpi-v4/mapbox_user_puck_icon.png"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-ldpi-v4/mapbox_user_icon.png",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-ldpi-v4/mapbox_user_icon.png"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-ldpi-v4/mapbox_user_icon_stale.png",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-ldpi-v4/mapbox_user_icon_stale.png"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-ldpi-v4/mapbox_user_bearing_icon.png",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-ldpi-v4/mapbox_user_bearing_icon.png"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-ldpi-v4/mapbox_user_stroke_icon.png",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-ldpi-v4/mapbox_user_stroke_icon.png"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-ldpi-v4/mapbox_info_icon_default.png",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-ldpi-v4/mapbox_info_icon_default.png"
+    }
+]

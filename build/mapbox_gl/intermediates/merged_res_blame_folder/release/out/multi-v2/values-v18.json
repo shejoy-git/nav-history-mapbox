@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/ce0946dad0a87c7d6fa955d22598d748/transformed/appcompat-1.0.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.mapbox.mapboxgl.mapbox_gl-mergeReleaseResources-19:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/ce0946dad0a87c7d6fa955d22598d748/transformed/appcompat-1.0.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

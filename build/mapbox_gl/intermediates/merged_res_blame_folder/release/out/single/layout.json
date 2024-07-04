@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_action_mode_bar.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/select_dialog_item_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_navigation_menu_item.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_select_dialog_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_lines_media.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-media-1.0.0-7:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_layout_tab_icon.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_screen_content_include.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_action_mode_close_item_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_part_chronometer.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_action_menu_item_layout.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_expanded_menu_layout.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_media.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-media-1.0.0-7:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_action.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_action_tombstone.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_layout_snackbar_include.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_action_bar_title_item.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/select_dialog_singlechoice_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_action_menu_layout.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/mtrl_layout_snackbar.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/mapbox_attribution_list_item.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/layout/mapbox_attribution_list_item.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_bottom_navigation_item.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_media_cancel_action.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-media-1.0.0-7:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_screen_toolbar.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/mapbox_infowindow_content.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/layout/mapbox_infowindow_content.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-media-1.0.0-7:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_navigation_menu.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_popup_menu_item_layout.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_tooltip.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/mapbox_offline_toolbar.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-plugin-offline-v9-0.7.0-13:/layout/mapbox_offline_toolbar.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_dialog_title_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/custom_dialog.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/mapbox_offline_activity.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-plugin-offline-v9-0.7.0-13:/layout/mapbox_offline_activity.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_icon_group.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_menu_item_action_area.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_action_bar_up_container.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/mapbox_offline_region_selection_fragment.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-plugin-offline-v9-0.7.0-13:/layout/mapbox_offline_region_selection_fragment.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/mapbox_view_image_marker.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/layout/mapbox_view_image_marker.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_bottom_sheet_dialog.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/mtrl_layout_snackbar_include.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_big_media.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-media-1.0.0-7:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_media_action.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-media-1.0.0-7:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_list_menu_item_layout.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_alert_dialog_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_search_view.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_list_menu_item_radio.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_navigation_item.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_screen_simple.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_text_input_password_icon.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_list_menu_item_icon.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_part_time.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_activity_chooser_view.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_media_custom.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-media-1.0.0-7:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/select_dialog_multichoice_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_cascading_menu_item_layout.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_layout_snackbar.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_navigation_item_separator.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_alert_dialog_title_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_big_media_custom.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-media-1.0.0-7:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_navigation_item_header.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/notification_template_big_media_narrow.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-media-1.0.0-7:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_layout_tab_text.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout/design_navigation_item_subheader.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout/design_navigation_item_subheader.xml"
+    }
+]

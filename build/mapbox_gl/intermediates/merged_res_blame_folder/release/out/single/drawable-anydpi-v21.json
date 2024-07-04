@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-anydpi-v21/mapbox_user_icon.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-anydpi-v21/mapbox_user_icon.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-anydpi-v21/mapbox_info_icon_default.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-anydpi-v21/mapbox_info_icon_default.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-anydpi-v21/mapbox_user_puck_icon.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-anydpi-v21/mapbox_user_puck_icon.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-anydpi-v21/mapbox_user_bearing_icon.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-anydpi-v21/mapbox_user_bearing_icon.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-anydpi-v21/mapbox_user_icon_stale.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-anydpi-v21/mapbox_user_icon_stale.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-anydpi-v21/mapbox_info_icon_selected.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-anydpi-v21/mapbox_info_icon_selected.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable-anydpi-v21/mapbox_user_stroke_icon.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable-anydpi-v21/mapbox_user_stroke_icon.xml"
+    }
+]

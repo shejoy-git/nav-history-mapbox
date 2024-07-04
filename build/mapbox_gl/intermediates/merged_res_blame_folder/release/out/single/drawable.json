@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mtrl_snackbar_background.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_vector_test.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_cab_background_top_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/design_fab_background.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/notification_icon_background.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/design_snackbar_background.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_edit_text_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mapbox_mylocation_bg_shape.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable/mapbox_mylocation_bg_shape.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/tooltip_frame_light.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/tooltip_frame_dark.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_list_selector_holo_light.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ic_search_api_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ic_ab_back_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/navigation_empty_icon.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_btn_borderless_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ratingbar_small_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_tab_indicator_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_list_divider_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/notification_bg_low.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mapbox_info_bg_selector.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable/mapbox_info_bg_selector.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/design_password_eye.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ic_clear_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_seekbar_track_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mapbox_region_selection_scrim.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-plugin-offline-v9-0.7.0-13:/drawable/mapbox_region_selection_scrim.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/ic_cancel.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-plugin-offline-v9-0.7.0-13:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_item_background_holo_light.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_switch_thumb_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_textfield_search_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mapbox_ic_arrow_back.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-plugin-offline-v9-0.7.0-13:/drawable/mapbox_ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mapbox_rounded_corner.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable/mapbox_rounded_corner.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_item_background_holo_dark.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_btn_check_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_text_cursor_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_btn_radio_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mapbox_popup_window_transparent.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable/mapbox_popup_window_transparent.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_btn_colored_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_dialog_material_background.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/notification_tile_bg.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/notification_bg.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-core-1.6.0-4:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mapbox_ic_check.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-plugin-offline-v9-0.7.0-13:/drawable/mapbox_ic_check.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/design_bottom_navigation_item_background.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/mapbox_user_icon_shadow.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-jetified-mapbox-android-sdk-9.6.2-10:/drawable/mapbox_user_icon_shadow.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ratingbar_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/drawable/abc_ic_voice_search_api_material.xml"
+    }
+]

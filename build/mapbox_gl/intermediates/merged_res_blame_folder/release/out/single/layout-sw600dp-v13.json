@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

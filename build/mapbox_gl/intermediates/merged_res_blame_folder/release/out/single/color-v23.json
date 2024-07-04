@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/abc_tint_edittext.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/abc_tint_switch_track.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/design_tint_password_toggle.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-material-1.0.0-2:/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/abc_color_highlight_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/abc_tint_spinner.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "com.mapbox.mapboxgl.mapbox_gl-merged_res-21:/color-v23/abc_tint_default.xml",
+        "source": "com.mapbox.mapboxgl.mapbox_gl-appcompat-1.0.0-11:/color-v23/abc_tint_default.xml"
+    }
+]
